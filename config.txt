@@ -1,4 +1,4 @@
-﻿token= NTQzMDQ0MjQzNjE5NDQ2Nzk0.Dz205g.vDk-unSm2gHW5TYzlg5B68WM_qE
+﻿token= NTQzMDQ0MjQzNjE5NDQ2Nzk0.Dz8cXg.60vhf5DDtS3CEjkJCpMMA29a5Ug
 owner= 525663843771351046 
 prefix= 2
 game= Type 2help
